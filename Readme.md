@@ -1,7 +1,7 @@
 # Proyectos-Angular
 Este repositorio estará destinado a proyectos de angular, sean estos ejercicios practicos, tareas, y avances del aprendizaje personal
 
-# Angular y firebase
+# Angular y Firebase
 Integrando el aprendizaje del modulo de angular <br>
 Hosting del proyecto: https://angular-firestore-89c97.firebaseapp.com/ 
 #
